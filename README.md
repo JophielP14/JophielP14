@@ -18,6 +18,6 @@
 ## GitHub Contribution
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jophielp14&show_icons=true&count_private=true&hide=issues&include_all_commits=true&line_height=24&theme=omni" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JophielP14&layout=compact&theme=omni" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jophielP14&layout=compact&theme=omni" alt="Top Languages" />
 </p>
 
